@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayank Agrawal</h1>
 <h3 align="center">Passionate Full Stack Developer</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank30-creator&label=Profile%20views&color=0e75b6&style=flat" alt="mayank30-creator" /> </p>
 
@@ -9,11 +7,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/@mayank30-creator" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@mayank30-creator" height="30" width="40" /></a>
+<a href="https://dev.to/mayank30-creator" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mayank30-creator" height="30" width="40" /></a>
 <a href="https://twitter.com/mayanka42471097" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mayanka42471097" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mayank-agrawal-703b28214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayank-agrawal-703b28214" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/agrawalmayank3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="agrawalmayank3" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@agrawalmayank301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@agrawalmayank301" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/agrawalmayank301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="agrawalmayank301" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/agrawalmayank3001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="agrawalmayank3001" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mayank30-creator" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mayank30-creator" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@agrawalmayank3001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@agrawalmayank3001" height="30" width="40" /></a>
