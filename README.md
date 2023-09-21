@@ -8,7 +8,7 @@
 
 Hey there! 👋 My name is Mayank Agrawal, and I'm a passionate 🥇, creative 🎨, and perceptive 🔭 engineer 🔧 with a hands-on approach to problem-solving and an unending thirst for knowledge 📚. Anything and everything that can be classified as technology 💻 fascinates me.
 
-n addition to my technical skills, I am a strong communicator and collaborator, with a proven track record of working effectively in cross-functional teams. I am always eager to learn from others and share my knowledge and expertise to help create innovative solutions that exceed expectations.
+In addition to my technical skills, I am a strong communicator and collaborator, with a proven track record of working effectively in cross-functional teams. I am always eager to learn from others and share my knowledge and expertise to help create innovative solutions that exceed expectations.
 
 <h3> 👨🏻‍💻 About Me </h3>
 
