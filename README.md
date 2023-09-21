@@ -32,4 +32,3 @@ I'm always open to new ideas and opportunities. You can connect with me on <a ta
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayank30-creator&show_icons=true&locale=en" alt="mayank30-creator" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank30-creator&" alt="mayank30-creator" /></p>
