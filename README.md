@@ -22,7 +22,14 @@ In addition to my technical skills, I am a strong communicator and collaborator,
 - 🌐 &nbsp; HTML | CSS | JavaScript | Tailwind | Node.js | Expressjs | Reactjs
 - 🛢 &nbsp; MySQL | MongoDB 
 - 🔧 &nbsp; Git | Gitlab 
-- 🖥 &nbsp; UI / UX | Figma | Canva 
+- 🖥 &nbsp; UI / UX | Figma | Canva
+
+You can find me here :
+<p align="left">
+  <a href="https://www.linkedin.com/in/mayank-agrawal-703b28214/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/MayankA42471097"><img title="Follow on Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>   
+  <a href="mailto:agrawalmayank3001@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  
 
 <br/>
 
