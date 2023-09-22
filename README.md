@@ -26,6 +26,9 @@ In addition to my technical skills, I am a strong communicator and collaborator,
 
 <br/>
 
+### Honors & Awards 🏅
+[![An image of @mayank_3001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mayank_3001)](https://holopin.io/@mayank_3001)
+
 I'm always open to new ideas and opportunities. You can connect with me on <a target="_blank" href="https://www.linkedin.com/in/mayank-agrawal-703b28214/">LinkedIn</a> 👥. Feel free to reach out to me directly at agrawalmayank3001@gmail.com 📧. Let's connect and explore exciting possibilities together! 🚀
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayank30-creator&show_icons=true&locale=en&layout=compact" alt="mayank30-creator" /></p>
